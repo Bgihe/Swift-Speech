@@ -1,4 +1,5 @@
 ## 像Siri一樣監聽說話
+Swift 語音轉文字 錄音轉文字 Speech Kit
 ### 打開info Speech權限
 ![](https://badgameshow.com/steven/wp-content/uploads/2020/11/Swift-語音轉文字-1.png) 
 
